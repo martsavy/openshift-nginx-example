@@ -1,3 +1,3 @@
 FROM nginx:stable-alpine
-EXPOSE 8080
+EXPOSE 30008
 COPY index.html /usr/share/nginx/html/
